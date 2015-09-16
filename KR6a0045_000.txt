@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大正句王經
+#+DATE: 2015-08-30 19:29:38.527161
+#+PROPERTY: JUAN 0
