@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:38.317272
+#+DATE: 2015-08-30 19:29:39.475641
 #+TITLE: 大正句王經
 #+PROPERTY: CBETA_ID T01n0045
 #+PROPERTY: ID KR6a0045
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 045
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6a0045_T_000-0831a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0045_T_002-0833b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《大正句王經》卷下¶
+《大正句王經》卷下¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
